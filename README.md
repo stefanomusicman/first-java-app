@@ -1,0 +1,2 @@
+This is my first program written in java, it is a very simple application built with the intention of getting familiar with the concepts of OOP.
+It's a basic banking application allowing a user to depoit, withdraw, verify account balance and calculate interest.
